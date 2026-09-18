@@ -23,4 +23,4 @@ git clone https://github.com/ChowHusky21/SQL-Structured-Query-Language.git
 No live database connection, credentials, or .env file is required to read these files.
 
 ## Licensing & Disclaimer
-_No license currently set._ Recommend adding an MIT license for consistency with the other repos (pending sign-off — not applied in this draft).
+Licensed under the [MIT License](LICENSE).
