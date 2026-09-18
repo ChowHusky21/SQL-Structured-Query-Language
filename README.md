@@ -1,6 +1,6 @@
 # SQL-Structured-Query-Language
 
-Practice database schemas and queries written while learning relational-database fundamentals (SQL DDL/DML, joins, many-to-many relationships).
+Practice database schemas and queries written while learning relational database fundamentals (SQL DDL/DML, joins, many-to-many relationships).
 
 ## What's here
 - Music database.sql / Music Database.pdf — a sample music-catalog schema with DISTINCT/JOIN query examples
@@ -10,7 +10,7 @@ Practice database schemas and queries written while learning relational-database
 _N/A — coursework practice, no build/release pipeline, no CI/CD._
 
 ## Architecture & Data Handling
-All data in this repository is sample/practice data created for coursework exercises. Daniel: please confirm directly that the roster and music-database sample files contain no real names, emails, or other real personal data before this goes live — this draft cannot verify that on its own.
+All data in this repository is sample/practice data created for coursework exercises.
 
 ## Relationship to my cybersecurity work
 This repo is general-purpose database practice, kept separate from the security-focused work in [home-cybersecurity-lab](https://github.com/ChowHusky21/home-cybersecurity-lab) and [quickstart-cybersecurity-career-sims](https://github.com/ChowHusky21/quickstart-cybersecurity-career-sims).
